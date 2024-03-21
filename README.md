@@ -1,11 +1,16 @@
-![banner](https://github.com/chloebatillet/1525mm/blob/main/window_plants_pixel.gif)      
-      
-## ✨ Hi, I’m Chloé ✨
+<img src="./images/window_plants_pixel-ezgif.com-crop.gif" alt="banner-plants" width="100%"/>
+
+</br>
+
+# ✨ Hi, I’m Chloé ✨
+
 - 🔭 I’m currently working on [the backoffice of an eshop](https://github.com/chloebatillet/elevatex-backoffice)  
 - 🌱 I’m currently learning React, TypeScript and Drizzle  
 - 💌 How to reach me : chloe.batillet.dev@gmail.com
 
-</br>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chloebatillet&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
 
 ## My Skill Set  
@@ -14,7 +19,8 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>    
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -66,20 +72,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/chloebatillet/1525mm/blob/main/photography_resized.gif" alt="photography" title="photography"/>
+      <img src="./images/photography_resized.gif" alt="photography" title="photography"/>
     </td>
     <td>
-      <img src="https://github.com/chloebatillet/1525mm/blob/main/pouring_coffee_resized.gif" alt="coffee" title="coffee"/>
+      <img src="./images/pouring_coffee_resized.gif" alt="coffee" title="coffee"/>
     </td>
     <td>
-      <img src="https://github.com/chloebatillet/1525mm/blob/main/book_wind_resized.gif" alt="books" title="books"/>
+      <img src="./images/books_resized.gif" alt="books" title="books"/>
     </td>
   </tr>
 </table>
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chloebatillet&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 1525mm/1525mm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
