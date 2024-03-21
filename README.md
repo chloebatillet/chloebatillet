@@ -18,7 +18,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chloebatillet&theme=aura&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chloebatillet&theme=aura&hide_border=false&background=00000000)](https://git.io/streak-stats)
 
 </br>
 
