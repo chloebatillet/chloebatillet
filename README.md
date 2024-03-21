@@ -5,13 +5,22 @@
 # ✨ Hi, I’m Chloé ✨
 
 - 🔭 I’m currently working on [the backoffice of an eshop](https://github.com/chloebatillet/elevatex-backoffice)  
-- 🌱 I’m currently learning React, TypeScript and Drizzle  
-- 💌 How to reach me : chloe.batillet.dev@gmail.com
+- 🌱 I’m currently learning **React**, **TypeScript** and **Drizzle**  
+- 👀 Next, I would like to learn **D3.js** et **Three.js**
+- 💌 How to reach me :
+
+
+[![Static Badge](https://img.shields.io/badge/chloe.batillet.dev%40gmail.com-red?style=flat&logo=gmail&labelColor=white)](mailto:chloe.batillet.dev@gmail.com)
+[![Static Badge](https://img.shields.io/badge/my%20Linkedin%20profile-blue?style=flat&logo=linkedin&labelColor=blue)
+](https://www.linkedin.com/in/chloe-batillet/)
+[![Static Badge](https://img.shields.io/badge/my%20portfolio-hotpink?style=flat&logo=vercel&labelColor=hotpink)](https://www.chloebatillet.com/)
+
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chloebatillet&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
+</br>
 
 ## My Skill Set  
 
